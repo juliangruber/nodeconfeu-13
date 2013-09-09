@@ -1,0 +1,23 @@
+{
+  "name": "talk",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "level-live-stream": "~1.4.7",
+    "multilevel": "~5.5.0",
+    "engine.io-stream": "~0.4.1",
+    "level": "~0.15.0",
+    "ecstatic": "~0.4.8",
+    "enter-input": "0.0.0",
+    "reactive-component": "~0.13.2",
+    "domify": "~1.0.0",
+    "level-list": "~0.10.0",
+    "level-sublevel": "~5.1.1"
+  }
+}
