@@ -18,6 +18,7 @@
     "reactive-component": "~0.13.2",
     "domify": "~1.0.0",
     "level-list": "~0.10.0",
-    "level-sublevel": "~5.1.1"
+    "level-sublevel": "~5.1.1",
+    "browserify": "~2.29.1"
   }
 }
